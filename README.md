@@ -70,7 +70,7 @@ The Blinkit Dashboard provides a comprehensive view of sales performance, item d
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./blinkit-dashboard.png)
+![Dashboard Screenshot](./blinkit.PNG)
 
 ---
 
